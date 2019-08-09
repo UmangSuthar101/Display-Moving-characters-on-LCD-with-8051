@@ -1,0 +1,3 @@
+".\Objects\Moving.obj" 
+TO ".\Objects\Moving LCD" 
+PRINT(".\Listings\Moving LCD.m51") RAMSIZE(64) 
